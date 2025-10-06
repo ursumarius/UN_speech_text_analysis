@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Share using safely managed drinking water",
+    "subtitle": "Safely managed drinking water service is defined as an [improved water source](#dod:improved-water-source) located on the premises, available when needed, and free from contamination.",
+    "citation": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/proportion-using-safely-managed-drinking-water?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Share of the population using safely managed drinking water services": {
+      "titleShort": "Share of the population using safely managed drinking water services",
+      "titleLong": "Share of the population using safely managed drinking water services",
+      "descriptionShort": "Safely managed drinking water services are defined as an improved drinking water source that is located on premises, available when needed and free from faecal and priority chemical contamination.\n",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2000-2022",
+      "type": "Numeric",
+      "owidVariableId": 820173,
+      "shortName": "wat_sm__residence_total",
+      "lastUpdated": "2024-01-06",
+      "nextUpdate": "2026-01-05",
+      "citationShort": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) (2024) – with major processing by Our World in Data",
+      "citationLong": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) (2024) – with major processing by Our World in Data. “Share of the population using safely managed drinking water services” [dataset]. WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP), “WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and  Hygiene (JMP) - Households”; WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP), “WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and  Hygiene (JMP) - Households - Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820173.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-20",
+  "activeFilters": {}
+}

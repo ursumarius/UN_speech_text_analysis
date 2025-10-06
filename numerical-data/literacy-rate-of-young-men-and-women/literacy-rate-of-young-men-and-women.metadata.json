@@ -1,0 +1,74 @@
+{
+  "chart": {
+    "title": "Literacy rate of young men vs. women",
+    "subtitle": "Share of women and men aged between 15 and 24 years old who can both read and write.",
+    "note": "",
+    "citation": "UNESCO Institute for Statistics (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/literacy-rate-of-young-men-and-women?v=1&csvType=full&useColumnShortNames=false",
+    "selection": []
+  },
+  "columns": {
+    "Literacy rate among young men": {
+      "titleShort": "Literacy rate among young men aged 15–24",
+      "titleLong": "Literacy rate among young men aged 15–24",
+      "descriptionShort": "Share of men aged 15 to 24 years who can read and write.",
+      "descriptionKey": [
+        "Literacy is a foundational skill. Children need to learn to read so that they can read to learn. When we fail to teach this foundational skill, people have fewer opportunities to lead the rich and interesting lives that a good education offers.",
+        "This indicator measures the percentage of people who can read and write a simple sentence about their daily life. It’s calculated as the number of people in a given age group who report being able to do so, divided by the total number in that group. UNESCO tracks this across different generations – including youth, adults, and older people – to show how literacy is changing over time.",
+        "Most of the data comes from national surveys. In some countries, people are asked directly whether they can read and write; in others, they take a short test.",
+        "In many high–income countries, literacy rates reached near–universal levels by the late 20th century. As a result, regular tracking has been scaled back, since changes are small and less relevant for education policy.",
+        "This data tells us whether someone can read and write at a very basic level – for example, reading simple sentences or writing their name. But it doesn’t tell us whether they can use reading and writing in everyday life, like filling out a job application or reading health instructions. Those kinds of skills take more years of schooling and are much harder to measure, especially when comparing across countries and over time."
+      ],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1970-2023",
+      "type": "Numeric",
+      "owidVariableId": 1031410,
+      "shortName": "youth_literacy_rate__population_15_24_years__male__pct__lr_ag15t24_m",
+      "lastUpdated": "2025-05-01",
+      "nextUpdate": "2026-05-01",
+      "citationShort": "UNESCO Institute for Statistics (2025) – with minor processing by Our World in Data",
+      "citationLong": "UNESCO Institute for Statistics (2025) – with minor processing by Our World in Data. “Literacy rate among young men aged 15–24” [dataset]. UNESCO Institute for Statistics, “UNESCO Institute for Statistics (UIS) - Education” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1031410.metadata.json"
+    },
+    "Literacy rate among young women": {
+      "titleShort": "Literacy rate among young women aged 15–24",
+      "titleLong": "Literacy rate among young women aged 15–24",
+      "descriptionShort": "Share of women aged 15 to 24 years who can read and write.",
+      "descriptionKey": [
+        "Literacy is a foundational skill. Children need to learn to read so that they can read to learn. When we fail to teach this foundational skill, people have fewer opportunities to lead the rich and interesting lives that a good education offers.",
+        "This indicator measures the percentage of people who can read and write a simple sentence about their daily life. It’s calculated as the number of people in a given age group who report being able to do so, divided by the total number in that group. UNESCO tracks this across different generations – including youth, adults, and older people – to show how literacy is changing over time.",
+        "Most of the data comes from national surveys. In some countries, people are asked directly whether they can read and write; in others, they take a short test.",
+        "In many high–income countries, literacy rates reached near–universal levels by the late 20th century. As a result, regular tracking has been scaled back, since changes are small and less relevant for education policy.",
+        "This data tells us whether someone can read and write at a very basic level – for example, reading simple sentences or writing their name. But it doesn’t tell us whether they can use reading and writing in everyday life, like filling out a job application or reading health instructions. Those kinds of skills take more years of schooling and are much harder to measure, especially when comparing across countries and over time."
+      ],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1970-2023",
+      "type": "Numeric",
+      "owidVariableId": 1031406,
+      "shortName": "youth_literacy_rate__population_15_24_years__female__pct__lr_ag15t24_f",
+      "lastUpdated": "2025-05-01",
+      "nextUpdate": "2026-05-01",
+      "citationShort": "UNESCO Institute for Statistics (2025) – with minor processing by Our World in Data",
+      "citationLong": "UNESCO Institute for Statistics (2025) – with minor processing by Our World in Data. “Literacy rate among young women aged 15–24” [dataset]. UNESCO Institute for Statistics, “UNESCO Institute for Statistics (UIS) - Education” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1031406.metadata.json"
+    },
+    "World regions according to OWID": {
+      "titleShort": "World regions according to OWID",
+      "titleLong": "World regions according to OWID",
+      "descriptionShort": "Regions defined by Our World in Data, which are used in OWID charts and maps.",
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Continent",
+      "owidVariableId": 900801,
+      "shortName": "owid_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "Our World in Data – processed by Our World in Data",
+      "citationLong": "Our World in Data – processed by Our World in Data. “World regions according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-28",
+  "activeFilters": {}
+}

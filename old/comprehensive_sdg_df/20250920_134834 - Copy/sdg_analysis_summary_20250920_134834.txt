@@ -1,0 +1,22 @@
+UN General Debate SDG Analysis Summary
+========================================
+
+Generated on: 2025-09-20 13:48:34
+Dataset: UN General Debate Corpus (2015+)
+Total speeches analyzed: 7236
+Speeches with SDG mentions: 7236
+Countries with SDG mentions: 200
+Average SDG mentions per speech: 61.71
+
+Top 10 Countries by Total SDG Mentions:
+----------------------------------------
+Costa Rica (CRI): 3930 mentions
+Nepal (NPL): 3711 mentions
+Bangladesh (BGD): 3482 mentions
+United States of America (USA): 3403 mentions
+Pakistan (PAK): 3381 mentions
+Guatemala (GTM): 3309 mentions
+El Salvador (SLV): 3297 mentions
+Ireland (IRL): 3285 mentions
+Mauritius (MUS): 3282 mentions
+Germany (DEU): 3232 mentions

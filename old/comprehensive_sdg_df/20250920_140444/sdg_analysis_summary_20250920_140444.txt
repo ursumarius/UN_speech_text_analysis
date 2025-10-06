@@ -1,0 +1,14 @@
+UN General Debate SDG Analysis Summary
+========================================
+
+Generated on: 20250920_140444
+Dataset: UN General Debate Corpus
+Total speeches analyzed: 71
+Speeches with SDG mentions: 71
+Countries with SDG mentions: 2
+Average SDG mentions per speech: 67.83
+
+Top 10 Countries by Total SDG Mentions:
+----------------------------------------
+Congo (COG): 2513 mentions
+Republic of Korea (KOR): 2303 mentions

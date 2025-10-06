@@ -1,0 +1,29 @@
+{
+  "chart": {
+    "title": "Value of exported goods as  a share of GDP",
+    "subtitle": "Total value of merchandise exports divided by gross domestic product, expressed as a percentage.",
+    "citation": "Fouquin and Hugot (CEPII 2016)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/merchandise-exports-gdp-cepii?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "United States",
+      "China",
+      "Brazil"
+    ]
+  },
+  "columns": {
+    "Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data)": {
+      "titleShort": "Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data)",
+      "titleLong": "Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data)",
+      "unit": "%",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 93834,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016; National data)” [dataset]. Fouquin and Hugot (CEPII 2016) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/93834.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-24",
+  "activeFilters": {}
+}
