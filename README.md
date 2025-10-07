@@ -1,1 +1,1 @@
-## The best way to view this project is by looking at [the report]([url](https://github.com/ursumarius/UN_speech_text_analysis/blob/main/UN-speech-health-prediction-Marius-Ursu.pdf)).
+## The best way to view this project is by looking at [the report](https://github.com/ursumarius/UN_speech_text_analysis/blob/main/UN-speech-health-prediction-Marius-Ursu.pdf).
